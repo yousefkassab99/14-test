@@ -1,0 +1,33 @@
+
+  .div1{
+    margin: 60px auto;
+    max-width: 430px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 47px;
+    
+  }
+  .count{
+    background-color: brown;
+    }
+    
+  .increment,.decrement,.div2{
+    cursor: pointer;
+    width: 25px;
+    height: 30px;
+    color: white;
+    background-color: red;
+    padding: 22px;
+    text-align: center;
+    font-size:35px;
+    line-height: 27px;
+    border-radius: 5px;
+  }
+  
+  .increment{
+  background-color:chocolate;
+  }
+  .decrement{
+    background-color: blue;
+    }
+  
