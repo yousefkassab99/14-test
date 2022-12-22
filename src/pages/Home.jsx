@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Counter from "../componants/Count/Index";
-
+import "../App.css";
 const counters = [
   { id: 0, count: 0, x: 1 },
   { id: 1, count: 0, x: 2 },
